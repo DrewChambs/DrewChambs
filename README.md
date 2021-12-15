@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Drew Chambers
 - �I’m interested in Full Stack Web Development
-- �and I’m currently learning Javascript, a PHP, and honing my CSS and HTML.
+- �and I’m currently learning Javascript, PHP, and honing my CSS and HTML.
 - 📫 I can be reached @ andrew.chambers.wlv@gmail.com simce I've given social media a timeout. 
 
 <!---
